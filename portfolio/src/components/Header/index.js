@@ -5,19 +5,19 @@ import "./style.css";
 function Header() { 
   return (
 <>
-  <Nav className="justify-content-center" activeKey="/home">
+  <Nav className="justify-content-center" activeKey="/about">
     <Nav.Item>
-      <Nav.Link href="/home"><img src={"/logo-mv.png"} id="logo" height="35px" width="35px"
+      <Nav.Link href="/about"><img src={"/logo-mv.png"} id="logo" height="35px" width="35px" alt=""
           /></Nav.Link>
     </Nav.Item>
     <Nav.Item>
-      <Nav.Link eventKey="link-1">Contact</Nav.Link>
+      <Nav.Link href="/contact" eventKey="link-1">Contact</Nav.Link>
     </Nav.Item>
     <Nav.Item>
-      <Nav.Link eventKey="link-2">Portfolio</Nav.Link>
+      <Nav.Link href="/portfolio" eventKey="link-2">Portfolio</Nav.Link>
     </Nav.Item>
     <Nav.Item>
-      <Nav.Link eventKey="link-2">Resume</Nav.Link>
+      <Nav.Link href="/resume" eventKey="link-2">Resume</Nav.Link>
     </Nav.Item>
     
   </Nav>

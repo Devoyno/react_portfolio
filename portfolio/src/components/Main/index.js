@@ -42,7 +42,7 @@ function Main() {
               target="-blank"
               role="button"
               >LinkedIn</a
-            >
+           >
             <a
               class="btn btn-lg btn-outline-light"
               href="https://github.com/Devoyno"
