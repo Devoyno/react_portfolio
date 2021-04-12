@@ -28,7 +28,7 @@ function MainResume() {
                     class="img-thumbnail" />
             </div>
           </div>
-          <a href="assets/michael_voynovich_resume.pdf" download="voynovich-resume" class="btn btn-secondary btn-sm mt-2 resume-btn">Download A Copy</a>
+          <a href="assets/michael_voynovich_full_stack.pdf.pdf" download="voynovich-resume" class="btn btn-secondary btn-sm mt-2 resume-btn">Download A Copy</a>
             </div>
     </div>  
 </>
