@@ -2,6 +2,6 @@
 
 Updated Portfolio Using React
 
-![screenshot](./public/assets/ss.png)
+![screenshot](portfolio/public/assets/ss.png)
 
 Broke existing portfolio page into components to allow deployment using React
