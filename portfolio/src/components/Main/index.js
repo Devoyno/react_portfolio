@@ -9,7 +9,7 @@ function Main() {
         <div class="row">
           <div class="col-sm-5 left-main">
             <div class="photo">
-              <img class="mike-computer" src={"./me.png"} alt=""/>
+              <img class="mike-computer" src={"./assets/me.png"} alt=""/>
             </div>
           </div>
 

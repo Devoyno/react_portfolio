@@ -123,6 +123,20 @@ h2 {
   color: white;
 }
 
-.btn {
-  margin:5px;
+/* contact page */
+
+.contact-right-main {
+  padding-top: 5%;
+}
+
+.contact-right-main {
+  width: 40%;
+  height: 600px;
+  margin: 5% 0% 0% 9%;
+  color: rgb(237, 237, 237);
+}
+
+.contact-right-main p a {
+  color: white;
+  font-size: 20px;
 }

@@ -1,13 +1,13 @@
 import React from 'react';
 import Header from "../components/Header";
-import Main from "../components/Main";
+import MainPortfolio from "../components/MainPortfolio";
 
 function Portfolio() {
 
     return (
       <>
       <Header />
-      <Main /> 
+      <MainPortfolio /> 
       </>
     );
   }

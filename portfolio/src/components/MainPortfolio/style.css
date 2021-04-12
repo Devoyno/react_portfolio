@@ -5,7 +5,6 @@
   .left-main img {
     height: 320px;
     width: 320px;
-    margin-left: 14%;
   }
 }
 
@@ -123,6 +122,26 @@ h2 {
   color: white;
 }
 
-.btn {
-  margin:5px;
+/* portfolio page */
+
+.content-header {
+  margin: 50px;
+  color: rgb(237, 237, 237);
+  text-align: center;
+}
+
+h4 {
+  margin: 20px 0;
+  color: rgb(237, 237, 237);
+}
+
+.info {
+  color: rgb(237, 237, 237);
+  margin-top: 15px;
+}
+
+.col-sm a {
+  color: white; 
+  padding-left: 10px; 
+  font-size: 14px;
 }

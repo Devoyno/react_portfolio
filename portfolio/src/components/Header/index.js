@@ -7,7 +7,7 @@ function Header() {
 <>
   <Nav className="justify-content-center" activeKey="/about">
     <Nav.Item>
-      <Nav.Link href="/about"><img src={"/logo-mv.png"} id="logo" height="35px" width="35px" alt=""
+      <Nav.Link href="/about"><img src={"./assets/logo-mv.png"} id="logo" height="35px" width="35px" alt=""
           /></Nav.Link>
     </Nav.Item>
     <Nav.Item>
