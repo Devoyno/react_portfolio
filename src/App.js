@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import Portfolio from "./pages/portfolio";
@@ -13,13 +13,13 @@ function App() {
         <Route exact path={["/", "/about"]}>
           <About />
         </Route>
-        <Route exact path={["/contact"]}>
+        <Route exact path={["/", "/contact"]}>
           <Contact />
         </Route>
-        <Route exact path={["/portfolio"]}>
+        <Route exact path={["/", "/portfolio"]}>
           <Portfolio />
         </Route>
-        <Route exact path={["/resume"]}>
+        <Route exact path={["/", "/resume"]}>
           <Resume />
         </Route>
       </Switch>
