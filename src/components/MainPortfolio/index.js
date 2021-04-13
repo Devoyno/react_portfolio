@@ -1,5 +1,8 @@
 import React from 'react';
 import "./style.css";
+import budgetImg from '../../images/budget.png';
+import employeeImg from '../../images/employee.png';
+import workoutImg from '../../images/workout.png';
 
 function MainPortfolio() { 
   return (
@@ -19,7 +22,7 @@ function MainPortfolio() {
                   <a href="https://github.com/Devoyno/fitness_tracker" alt="">Click here to view code</a>
                   <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675">
                   <img
-                    src={"./Assets/workout.png"}
+                    src={workoutImg}
                     alt="test"
                     class="img-thumbnail"
                     />
@@ -35,7 +38,7 @@ function MainPortfolio() {
                   <a href="https://github.com/Devoyno/employee_tracker">Click here to view code</a>
                   <a href="https://drive.google.com/file/d/1PaFjMm8yPHGcvPj5V4KuXvmAF44v0Pju/view" >
                   <img
-                    src="Assets/employee.png"
+                    src={employeeImg}
                     alt="test"
                     class="img-thumbnail"
                     />
@@ -51,7 +54,7 @@ function MainPortfolio() {
                   <a href="https://github.com/Devoyno/budget_tracker">Click here to view code</a>
                   <a href="https://fathomless-peak-55122.herokuapp.com/">
                   <img
-                    src="Assets/budget.png"
+                    src={budgetImg}
                     alt="test"
                     class="img-thumbnail"
                     />

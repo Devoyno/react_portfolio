@@ -1,5 +1,8 @@
 import React from 'react';
 import "./style.css";
+import resume1Img from '../../images/resume1.png';
+import resume2Img from '../../images/resume2.png';
+import michael_voynovich_full_stackPDF from '../../images/michael_voynovich_full_stack.pdf';
 
 function MainResume() { 
   return (
@@ -17,18 +20,18 @@ function MainResume() {
           <div class="row resume">
             <div class="col-sm">
               <img
-                src="Assets/resume1.png"
+                src={resume1Img}
                 alt="test"
                 class="img-thumbnail"
                 />
             </div>
             <div class="col-sm">
-               <img src="Assets/resume2.png" 
+               <img src={resume2Img} 
                     alt="test" 
                     class="img-thumbnail" />
             </div>
           </div>
-          <a href="assets/michael_voynovich_full_stack.pdf.pdf" download="voynovich-resume" class="btn btn-secondary btn-sm mt-2 resume-btn">Download A Copy</a>
+          <a href={michael_voynovich_full_stackPDF}download="voynovich-resume" class="btn btn-secondary btn-sm mt-2 resume-btn">Download A Copy</a>
             </div>
     </div>  
 </>

@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import meImg from '../../images/me.png';
 
 function MainContact() {
   return (
@@ -9,7 +10,7 @@ function MainContact() {
         <div class="row">
           <div class="col-sm-5 left-main">
             <div class="photo">
-              <img class="mike-computer" src={"./assets/me.png"} alt=""/>
+              <img class="mike-computer" src={meImg} alt=""/>
             </div>
           </div>
 

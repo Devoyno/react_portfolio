@@ -1,13 +1,14 @@
 import React from 'react';
 import Nav from 'react-bootstrap/Nav';
 import "./style.css";
+import mvIMG from '../../images/mv.png'
 
 function Header() { 
   return (
 <>
   <Nav className="justify-content-center" activeKey="/about">
     <Nav.Item>
-      <Nav.Link href="/about"><img src={"./assets/logo-mv.png"} id="logo" height="35px" width="35px" alt=""
+      <Nav.Link href="/about"><img src={mvIMG} id="logo" height="35px" width="35px" alt=""
           /></Nav.Link>
     </Nav.Item>
     <Nav.Item>
