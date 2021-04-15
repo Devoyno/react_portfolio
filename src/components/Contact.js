@@ -1,6 +1,6 @@
 import React from "react";
-import "./style.css";
-import meImg from '../../images/me.png';
+import "./Contact.css";
+import meImg from '../images/me.png';
 
 function MainContact() {
   return (

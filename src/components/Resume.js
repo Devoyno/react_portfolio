@@ -1,8 +1,8 @@
 import React from 'react';
-import "./style.css";
-import resume1Img from '../../images/resume1.png';
-import resume2Img from '../../images/resume2.png';
-import michael_voynovich_full_stackPDF from '../../images/michael_voynovich_full_stack.pdf';
+import "./Resume.css";
+import resume1Img from '../images/resume1.png';
+import resume2Img from '../images/resume2.png';
+import michael_voynovich_full_stackPDF from '../images/michael_voynovich_full_stack.pdf';
 
 function MainResume() { 
   return (

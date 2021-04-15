@@ -1,7 +1,7 @@
 import React from 'react';
 import Nav from 'react-bootstrap/Nav';
-import "./style.css";
-import mvIMG from '../../images/mv.png'
+import "./Header.css";
+import mvIMG from '../images/mv.png'
 
 function Header() { 
   return (
