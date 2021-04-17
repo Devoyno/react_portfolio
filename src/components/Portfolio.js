@@ -25,8 +25,8 @@ function MainPortfolio() {
         <div class="row projects">
           <div class="col-sm">
             <h4>Mongo.db Workout Dashboard</h4>
-                  <a href="https://github.com/Devoyno/fitness_tracker" alt="">Click here to view code</a>
-                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675">
+                  <a href="https://github.com/Devoyno/fitness_tracker" target="_blank">Click here to view code</a>
+                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675" target="_blank">
                   <img
                     src={workoutImg}
                     alt="test"
@@ -41,8 +41,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>Node.js Employee Tracker</h4>
-                  <a href="https://github.com/Devoyno/employee_tracker">Click here to view code</a>
-                  <a href="https://drive.google.com/file/d/1PaFjMm8yPHGcvPj5V4KuXvmAF44v0Pju/view" >
+                  <a href="https://github.com/Devoyno/employee_tracker" target="_blank">Click here to view code</a>
+                  <a href="https://drive.google.com/file/d/1PaFjMm8yPHGcvPj5V4KuXvmAF44v0Pju/view" target="_blank">
                   <img
                     src={employeeImg}
                     alt="test"
@@ -57,8 +57,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>Mongo.db Budget Tracker</h4>
-                  <a href="https://github.com/Devoyno/budget_tracker">Click here to view code</a>
-                  <a href="https://fathomless-peak-55122.herokuapp.com/">
+                  <a href="https://github.com/Devoyno/budget_tracker" target="_blank">Click here to view code</a>
+                  <a href="https://fathomless-peak-55122.herokuapp.com/" target="_blank">
                   <img
                     src={budgetImg}
                     alt="test"
@@ -75,8 +75,8 @@ function MainPortfolio() {
         <div class="row projects">
           <div class="col-sm">
             <h4>Note Taker Application</h4>
-                  <a href="https://github.com/Devoyno/fitness_tracker" alt="">Click here to view code</a>
-                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675">
+                  <a href="https://github.com/Devoyno/fitness_tracker" target="_blank">Click here to view code</a>
+                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675" target="_blank">
                   <img
                     src={notesImg}
                     alt="test"
@@ -90,8 +90,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>Movie Seat Selector</h4>
-                  <a href="https://github.com/Devoyno/movie_seats">Click here to view code</a>
-                  <a href="https://devoyno.github.io/movie_seats/" >
+                  <a href="https://github.com/Devoyno/movie_seats" target="_blank">Click here to view code</a>
+                  <a href="https://devoyno.github.io/movie_seats/" target="_blank">
                   <img
                     src={movieImg}
                     alt="test"
@@ -106,8 +106,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>Knowvid-19 (Covid Tracker)</h4>
-                  <a href="https://github.com/Devoyno/budget_tracker">Click here to view code</a>
-                  <a href="https://fathomless-peak-55122.herokuapp.com/">
+                  <a href="https://github.com/Devoyno/budget_tracker" target="_blank">Click here to view code</a>
+                  <a href="https://fathomless-peak-55122.herokuapp.com/" target="_blank">
                   <img
                     src={knowvidImg}
                     alt="test"
@@ -124,8 +124,8 @@ function MainPortfolio() {
         <div class="row projects">
           <div class="col-sm">
             <h4>Total Tech Indy</h4>
-                  <a href="#" alt="">Code not viewable, deployed site</a>
-                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675">
+                  <a href="#">Code not viewable, deployed site</a>
+                  <a href="https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675" target="_blank">
                   <img
                     src={ttiImg}
                     alt="test"
@@ -139,8 +139,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>What's for Dinner</h4>
-                  <a href="https://github.com/Devoyno/food_drinks_jokes">Click here to view code</a>
-                  <a href="https://devoyno.github.io/food_drinks_jokes/" >
+                  <a href="https://github.com/Devoyno/food_drinks_jokes" target="_blank">Click here to view code</a>
+                  <a href="https://devoyno.github.io/food_drinks_jokes/" target="_blank">
                   <img
                     src={dinImg}
                     alt="test"
@@ -155,8 +155,8 @@ function MainPortfolio() {
           </div>
           <div class="col-sm">
             <h4>API test page</h4>
-                  <a href="https://github.com/Devoyno/test_page">Click here to view code</a>
-                  <a href="https://devoyno.github.io/test_page/">
+                  <a href="https://github.com/Devoyno/test_page" target="_blank">Click here to view code</a>
+                  <a href="https://devoyno.github.io/test_page/" target="_blank">
                   <img
                     src={testImg}
                     alt="test"
